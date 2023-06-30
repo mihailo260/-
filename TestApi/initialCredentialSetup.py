@@ -2,7 +2,7 @@
 from woocommerce import API
 wcapi = API(
     url='http://localhost/wordpress',
-    consumer_key='ck_a1ca557eef87f0e672172ba44f90758a4b0217cd',
-    consumer_secret='cs_d0a284168d587546adfca96a3cc686ea3fd5c377',
+    consumer_key='ck_f824811affc0c67efeab225b26f7553825ffd156',
+    consumer_secret='cs_901f2969939426ec7bb8199e8de705286fc8fec4',
     timeout=50
 )
